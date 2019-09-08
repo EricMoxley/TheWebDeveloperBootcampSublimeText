@@ -39,5 +39,3 @@ function deleteTodo(){
 	todos.splice(index,1);
 	console.log("Deleted Todo");
 }
-
-testing to see if renaming on github messes this up
