@@ -1,0 +1,16 @@
+img {
+	width: 20%;
+	float: left;
+	margin: 1%;
+}
+
+p:nth-of-type(1) {
+	font-family: 'Blinker', sans-serif;
+	font-size: 50px;
+	text-transform: uppercase;
+	border-bottom: 3px solid green;
+	width: 85%;
+}
+p:nth-of-type(2) {
+	width: 85%;
+	font-size: 30px;

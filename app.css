@@ -1,0 +1,68 @@
+/*Border has:
+Width
+Color
+Style*/
+
+h1 {
+	color: black;
+/*	border-color: black;
+	border-width: 5px;
+	border-style: solid;
+*/
+	border: 2px solid black;
+}
+li {
+	color: black;
+}
+h4 {
+	color: red;
+}
+/*body {
+	background: url(https://image.freepik.com/free-photo/white-cloud-blue-sky-sea_74190-4488.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+body{
+	background: gray;
+}
+div{
+	background: white;
+}
+
+/*Selectors
+/*clement*/
+li {
+
+}
+/*class*/
+.hello {
+
+}
+/*id*/
+#name {
+
+}
+/*star*/
+*{
+
+}
+
+/*Descendant Selector*/
+li a {
+
+}
+
+/*Adjacent Selector*/
+h4 + ul {
+	border:2px solid blue;
+}
+
+/*attribute selector*/
+a[href="FirstPage.html"] {
+	background: gray;
+}
+
+/*nth of type*/
+ul:nth-of-type(3){
+	background: red;
+}

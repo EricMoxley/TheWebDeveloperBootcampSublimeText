@@ -1,0 +1,44 @@
+.jumbotron {
+	background: lightgray;
+}
+
+.nav {
+    font-family: 'Lexend Peta', sans-serif;
+}
+
+.navbar {
+	font-family: 'Lexend Peta', sans-serif;
+}
+.navbar-brand {
+	text-shadow: 3px 0px 1px black;
+}
+body { padding-top: 3%; } /* fixes fixed navbar covering next container/p/jumbotron in xsmall window.*/
+
+body {
+	background: url(https://serving.photos.photobox.com/230733117fb514105788fa4e2460028986fb14a6ae1c090e17ccd5afabaf4f986d19b363.jpg);
+	background-size: cover;
+	background-position: top;
+}
+html {
+	height: 100%;
+}
+
+.navbar-light .navbar-brand {
+    color: gray;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: gray;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: gray;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: blue !important;
+}
+
+.bg-company-red {
+    background-color: #bde3ff !important;
+}

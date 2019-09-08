@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form Exercise</title>
+</head>
+<body>
+<h1>Register</h1>
+<form>
+	<label for="firstname">First Name: </label>
+	<input name="firstname" type="text" placeholder="First Name" required>
+	<label for="lastname">Last Name: </label>
+	<input name="lastname" type="text" placeholder="Last Name" required>
+<div>
+	<label for="Male">Male</label>
+	<input name="gender" id="male" type="radio" value="male">
+	<label for="Female">Female</label>
+	<input name="gender" id="female" type="radio" value="female">
+	<label for="Other">Other</label>
+	<input name="gender" id="other" type="radio" value="other">
+</div>
+<div>
+	Email:
+	<input name="email" type="email" placeholder="Your Email" required>
+	Password:
+	<input name="password" type="password" placeholder="Password" minlength="8" maxlength="15" required title="Password must be between 8 and 15 characters.">
+</div>
+<div>
+	Birthday:
+	<select name="Month">
+  		<option value="" selected disabled hidden>Month</option>
+		<option>January</option>
+		<option>February</option>
+		<option>March</option>
+	</select>
+	<select name="Day">
+		<option value="" selected disabled hidden>Day</option>
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+	</select>
+	<select name="Year">
+		<option value="" selected disabled hidden>Year</option>
+		<option>1987</option>
+		<option>1988</option>
+		<option>1989</option>
+	</select>
+</div>
+<div>
+	<label for="agreed">I agree to the terms and conditions:</label>
+	<input id="agreed" name="agreed" type="checkbox"></input>
+</div>
+	<button>Submit</button>
+
+<p><a href="FirstPage.html">Click Here to go back home!</a></p>
+<p><a href="aboutme.html">Click Here to go to About Me page</a></p>
+</form>
+</body>
+</html>
