@@ -30,7 +30,7 @@ Document with https://github.com/ and make commits to show activity and consiste
 
 10. Angular
 
-11. Built sites. Aim for Webdev skillsets for Front End Developer to start
+11. Build sites. Aim for Webdev skillsets for Front End Developer to start
 
 Portfolio Ideas showcasing specific tools used:
 Personal Website? Self, Places traveled, Blogging
@@ -38,16 +38,31 @@ App?
 
 Vacation builder site
 
+Questions
 - How long did it take you or someone you know to do a complete career change to developer in their late 20's/early 30's?
 Quickest?
-
 - When's the best time to deem a language, discipline or work "resume ready?" E.G. When is that perfect time to be comfortable in adding HTML5, CSS and JS to your resume. Maybe it's after you get familiar, mastered, or received a certification/degree for it?
-
 - What was your path to get to your current role in your career? Was it any different from what you initially planned?
 
 09/05/19
 Revisit For and While Loops on JS.. Very Confusing in terms of writing, execution and understanding.
 
+09/08/19
 DOM
 Document Object Model
+
+09/09/19
+Created Score Keeper in browser but couldn't debug.
+
+
+
+
+
+
+
+
+
+
+
+
 
