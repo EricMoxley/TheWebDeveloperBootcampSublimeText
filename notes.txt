@@ -1,0 +1,53 @@
+Treehouse
+
+https://www.udemy.com/ has online courses for cheap.  The Web Developer Bootcamp
+The only course you need to learn web development - HTML, CSS, JS, Node, and More 9.99
+
+NodeJS newest language tech is what the camp teaches. Corey says feedback is that it's a bit out of date.
+Recommended: The Modern JS BC 2019
+
+Python and Ruby relevant languages still.
+
+Document with https://github.com/ and make commits to show activity and consistency.
+
+1. Continue learning python
+
+2. Learn Git, Use github as I go somehow. < have to learn more and master.
+
+3. Intro to CS and programming using Python < August 28th, 2019
+
+4. Learn HyperText Markup Language5(What to display on screen), Cascading Style Sheets(How the html looks), JavaScript (Actions and operations), NodeJS (Most popular and recent program used by developers)
+
+5. Udemy.com Colt Steele's Web Developer Bootcamp
+
+6. Udemy.com Rob Percival Web Developer 2.0 Course
+
+7. Edx HTML5 and CSS Fundamentals
+
+8. Javascript
+
+9. React
+
+10. Angular
+
+11. Built sites. Aim for Webdev skillsets for Front End Developer to start
+
+Portfolio Ideas showcasing specific tools used:
+Personal Website? Self, Places traveled, Blogging
+App?
+
+Vacation builder site
+
+- How long did it take you or someone you know to do a complete career change to developer in their late 20's/early 30's?
+Quickest?
+
+- When's the best time to deem a language, discipline or work "resume ready?" E.G. When is that perfect time to be comfortable in adding HTML5, CSS and JS to your resume. Maybe it's after you get familiar, mastered, or received a certification/degree for it?
+
+- What was your path to get to your current role in your career? Was it any different from what you initially planned?
+
+09/05/19
+Revisit For and While Loops on JS.. Very Confusing in terms of writing, execution and understanding.
+
+DOM
+Document Object Model
+
