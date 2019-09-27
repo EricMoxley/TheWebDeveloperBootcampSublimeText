@@ -60,8 +60,19 @@ Created Score Keeper in browser but couldn't debug.
 -Intro to Jquery
 -Worth knowing how to do things with and without Jquery. JS basics helps benefits students learning JS/Jquery as some jobs do not use Jquery.
 
+09/26/19
+- Looked towards finding ways to not be as distracted with this work and learning. Started streaming with title: (Beginner Web Development & Coding through Sublime Text from scratch. Going through Colt Steele's Udemy Bootcamp. HTML5, CSS, JS and beyond.) On twitch.
+ - Reasons for streaming:
+	Give self structure, schedule.  
+	Need to create schedule, post and follow it.
+	Build upon twitch profile
+	Find self character through stream
+	Receive feedback and ideas from viewers if any?????
 
+- Speak with Corey so he could introduce me to what his DevOPs work looks like. Maybe give some input on the info I may or may not detain as a beginner learner of the field.
 
+- look into SCSS after comfortable with CSS (H3)
 
+- For developers, theres usually two paths: Specialists and Management (Michael C) > check job postings in area to see which to branch out to (react or angular. etc)
 
 
