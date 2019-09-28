@@ -76,3 +76,35 @@ Created Score Keeper in browser but couldn't debug.
 - For developers, theres usually two paths: Specialists and Management (Michael C) > check job postings in area to see which to branch out to (react or angular. etc)
 
 
+09/27/19
+
+
+Mock Stream/Study Schedule Ideas
+(PM) Times Vary, but 10 hours is goal per Learning Sessions.
+
+Sunday: 10PM-8AM Program
+Monday: 10PM-8AM Program
+Tuesday: 10PM-8AM Program
+Wednesday: None or Gaming
+Thursday: 10PM-8AM Program
+Friday: None or Gaming
+Saturday: None or Gaming
+
+
+09/28/19
+- Don't use cloud9. Ever.
+
+- Continue installing MongoDB view bookmarked NodeJS, MongoDB, then nodejs+mongodb videos in order.
+
+- Make sure nodejs/sublime/mongo all work properly
+
+- Continue/finish colt steele's udemy course
+
+
+
+
+
+
+
+
+
