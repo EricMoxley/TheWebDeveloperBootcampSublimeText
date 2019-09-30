@@ -85,7 +85,7 @@ Mock Stream/Study Schedule Ideas
 Sunday: 10PM-8AM Program
 Monday: 10PM-8AM Program
 Tuesday: 10PM-8AM Program
-Wednesday: None or Gaming
+Wednesday: None or Gaming/Program
 Thursday: 10PM-8AM Program
 Friday: None or Gaming
 Saturday: None or Gaming
