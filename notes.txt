@@ -96,7 +96,7 @@ Saturday: None or Gaming
 
 - Continue installing MongoDB view bookmarked NodeJS, MongoDB, then nodejs+mongodb videos in order.
 
-- Make sure nodejs/sublime/mongo all work properly
+- Make sure nodejs/sublime/mongo all work properly < solved by using VS code
 
 - Continue/finish colt steele's udemy course
 
@@ -113,10 +113,11 @@ Saturday: None or Gaming
 09/30/19
 - Movie API project code along from Colt Steele's udemy
 
-- Yelpcamp and Restful routing
+- Yelpcamp, Blogs, and Restful routing
 
 - Finish rest of course
 
+- See if Corey's dev PDF is ready.
 
 
 
