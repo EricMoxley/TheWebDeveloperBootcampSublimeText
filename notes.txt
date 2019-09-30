@@ -101,6 +101,24 @@ Saturday: None or Gaming
 - Continue/finish colt steele's udemy course
 
 
+09/29/19
+
+- To install and use local IDE
+
+- Read Corey's PDF about learning the field. < did not get pdf
+
+- Continue Colt Steele's Udemy Course
+
+
+09/30/19
+- Movie API project code along from Colt Steele's udemy
+
+- Yelpcamp and Restful routing
+
+- Finish rest of course
+
+
+
 
 
 
