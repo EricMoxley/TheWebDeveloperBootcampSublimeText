@@ -1,0 +1,5 @@
+ssh root@104.148.41.19 < superuser moxley
+
+ssh tester@104.148.41.19 < created user
+
+- exit to logout

@@ -116,13 +116,11 @@ Saturday: None or Gaming
 
 09/30/19
 Objectives: 
-- To go over and understand all of the code alongs that were done yesterday.
+- To go over and understand all of the code alongs that were done yesterday. DONE
 
-- To improve and practice more in VScode.
+- To improve and practice more in VScode. >>
 
-- Understand full stack web dev and what best ways to practice are.
-
-
+- Understand full stack web dev and what best ways to practice are. >>
 
 Upcoming Tasks:
 - Movie API project code along from Colt Steele's udemy > Hold off, skipped to Yelpcamp
@@ -137,4 +135,28 @@ Upcoming Tasks:
 ./mongod --dbpath="C:\Users\PC\Documents\webdevbootcamp\YelpCamp\data\db"
 
 27017 (port)
+
+10/01/19
+Objectives.
+- Adding mongoose to express app.
+
+- Work on getting something to show on new local host running on mongodb server.
+
+- See if Corey has training PDF ready for stream.
+
+- Continue course (73%)
+
+"npm install mongoose"
+"npm install mongoose --save"
+^ used to install mongoose from mongodb
+
+(Deleting objects from databases. e.g. campgrounds)
+- mongo
+- show dbs
+- use yelp_camp
+- show collections
+- db.campgrounds.find()       db.campgrounds.drop()
+
+
+
 
