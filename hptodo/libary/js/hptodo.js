@@ -15,7 +15,7 @@ $("ul").on("click", "span", function(event){
 $("input[type='text']").keypress(function(event){
 	if(event.which === 13){
 
-//grabbing new todo text from input
+		//grabbing new todo text from input
 		var todoText = $(this).val();
 		//remove everything from input
 		$(this).val("");
